@@ -1,12 +1,7 @@
-"""Python is cool."""
-# install python
+"""Python 3"""
+# install python:
 # already on MacOS / UNIX?
 # TODO: Windows install instructions
-
-# Considerations:
-# avoided namedtuples and dataclasses (keep this as simple as possible)
-# also avoid getters / setters.
-
 
 class Thing:
     """Something."""
