@@ -1,5 +1,10 @@
 <?php
 
+// To use
+// Install PHP : https://www.php.net/manual/en/install.php
+// after install, navigate to this dir in your terminal and run
+// php -f thing.php
+
 class Thing{
    public function __construct(
     private $color,
